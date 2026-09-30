@@ -5,7 +5,6 @@ An interactive AI-powered web application built with Streamlit that extracts syn
 ## 🚀 Features
 - **Multilingual Support:** Extracts both English and Arabic YouTube transcripts.
 - **Dynamic Formatting:** Choose between concise Bullet Points or well-structured Paragraphs.
-- **Custom Themes:** Supports elegant Pastel Light Mode and professional Dark Mode.
 - **Open-Source LLM:** Powered by `Qwen/Qwen2.5-3B-Instruct` for high-quality reasoning.
 
 ## 🛠️ Tech Stack
